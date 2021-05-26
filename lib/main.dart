@@ -207,7 +207,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   style: TextStyle(
                                       fontSize: 16,
                                       fontWeight: FontWeight.bold,
-                                      color:_counter==1? Colors.white:Colors.black,
+                                      color:_counter==2? Colors.white:Colors.black,
                                       decoration: TextDecoration.none)),
                             ],
                           ),
