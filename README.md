@@ -1,6 +1,6 @@
 # flutter_ui
 
-Flutter payment Ui 
+Flutter Order Review and Payment Ui 
 How to run :
 - pub get 
 - pub run
